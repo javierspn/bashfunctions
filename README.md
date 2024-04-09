@@ -1,0 +1,2 @@
+# bashfunctions
+Bash useful functions
